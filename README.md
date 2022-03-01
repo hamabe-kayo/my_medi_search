@@ -1,24 +1,35 @@
-# README
+# まいメディサーチ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+クリニックや医院の検索、クリニックや医院の地図表示、レビューの書き込み、閲覧ができるサイト。
 
-Things you may want to cover:
+### サイトテーマ
+クリニック、医院に絞ったレビューサイト。
 
-* Ruby version
+### テーマを選んだ理由
+体調の悪いときにかかれるクリニック、医院を探すだけでなく、基礎疾患がまだなく、かかりつけ医を持たない若い世代がワクチン接種や体調の悪いときにすぐにかかれるかかりつけ医を探せるツールとして活用することによって、軽症患者のコンビニ受診を減らし総合病院の負担や患者の待ち時間の短縮などに役立てたい。
 
-* System dependencies
+### ターゲットユーザ
+クリニックや医院を探している方。
+まだかかりつけ医を持っていない方。
 
-* Configuration
+### 主な利用シーン
+比較的軽症だが、医師に見てほしいとき。
+かかりつけ医を探しているとき。
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1cJoCq01Hyv4g6-J6hau7K9iCKj0DY867sjLXZIvmBEM/edit#gid=0
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
